@@ -31,7 +31,7 @@ dependencies:
   http: 0.12.2
   flutter_bmfmap: ^1.0.2
   flutter_bmfutils:  ^1.0.2
-  flutter_bmflocation: ^1.0.2
+  flutter_bmflocation: ^1.0.3
 #
 #  bdmap_location_flutter_plugin:
 #    path: plugins/bdmap_location_flutter_plugin
